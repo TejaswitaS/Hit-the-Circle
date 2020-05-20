@@ -1,0 +1,20 @@
+.appContainer {
+  height: 500px;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin: auto;
+}
+
+.circleBoard {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  margin: 0 15%;
+}
+
+.actionButtons {
+  display: flex;
+  justify-content: center;
+  outline: none;
+}

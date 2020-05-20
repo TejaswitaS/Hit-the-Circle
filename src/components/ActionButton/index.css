@@ -1,0 +1,19 @@
+.button {
+	width: 75px;
+	height: 30px;
+	border-radius: 3px;
+	border: none;
+	margin: 10px 0 10px 15px;
+	outline: none;
+	cursor: pointer;
+}
+
+.button.play {
+	background-color: #017ACE;
+	color: #FFF;
+}
+
+.button.stop {
+	background-color: #DFE7ED;
+	color: #000;
+}

@@ -1,0 +1,19 @@
+.scoreBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.scoreContainer {
+  display: flex;
+  align-self: flex-end;
+  justify-content: flex-end;
+}
+
+.score {
+  padding: 4px;
+  border-radius: 3px;
+  margin: 10px 0;
+  text-align: right;
+  outline: none;
+}
